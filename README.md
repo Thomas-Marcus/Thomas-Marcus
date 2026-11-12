@@ -1,4 +1,4 @@
-# Thomas Marcus Koehler
+# Thomas Marcus Köhler
 
 **Dipl.-Betriebswirt (FH) · Zertifizierter Data Analyst mit Schwerpunkt KI · THE PATTERN MIND**
 
