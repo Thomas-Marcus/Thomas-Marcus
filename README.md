@@ -16,7 +16,7 @@ Business Development, Datenanalyse und künstliche Intelligenz unter einem Dach:
 
 ## Werkzeuge
 
-SQL · Python · Tableau · Power BI · ETL/ELT
+SQL · Python · Tableau · Power BI · ETL/ELT · Zoho (im Aufbau)
 
 ## Kontakt
 
